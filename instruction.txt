@@ -1,10 +1,11 @@
-welcome to our mario game!
+Hello adventurer to our Mario game!
 
-to find a beautifull princes you have to complete a quest with several tasks and follow instructions!
+To find the beautiful princess, you will have to complete a quest with several tasks and follow the instructions!
 
-1. next step -> go to the Honeyhive_Galaxy and find your next step 
+1. First step -> go to the Honeyhive_Galaxy and there you can find your next step!
 
-2. press ctrl+X/ ^+X(Mac) for save the progress and press Y for confirm, after press Enter/TAB button.  
+Little helper:
+Press ctrl+X/ ^+X(Mac) for save the progress and press Y for confirm, after press Enter/TAB button.  
 
 #### Good luck! 🍀
 
