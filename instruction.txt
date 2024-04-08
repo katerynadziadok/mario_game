@@ -1,0 +1,6 @@
+welcome to our mario game!
+
+to find a beautifull princes you have to complete a quest with several tasks and follow instructions!
+1. first you need to create here a text file and write down there "hello" word
+2. next step -> go to the door3 and find your next step 
+3. press ctrl+X/ ^+X(Mac) for save the progress and press Y for confirm, after press Enter/TAB button.  
