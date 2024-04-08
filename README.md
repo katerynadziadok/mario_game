@@ -31,20 +31,6 @@ Next day - Present your game (5 minutes per group)
 * Quick demo
 
 #### Good luck! 🍀
-__xxxxxxxxxxx______xxxxxxxxxx
-_xxxxxxxxxxxxxx___xxxxxxxxxxxxx
-xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-__xxxxxxxxxxxxxxxxxxxxxxxxxxx
-____xxxxxxxxxxxxxxxxxxxxxx
-_______xxxxxxxxxxxxxxxxx
-________xxxxxxxxxxxx
-__________xxxxxxxxx
-____________xxxxx
-_____________xxx
-_____________xx
-_____________*
 
 ░░░░░░░▄▄████▄▄▄░░░░░░▄▄██████▄▄
 ░░░░░██▓▓▓▓▓▓▒▓▓██░░▓█▓▓▓▓▒░▒▒▓▓██
